@@ -1,0 +1,8 @@
+# Originals and working files: not needed by the site
+assets/source/
+brand-assets/
+malabar-chai/
+malabar-chai.zip
+MALABAR-CHAI-PLAN.md
+node_modules/
+.DS_Store

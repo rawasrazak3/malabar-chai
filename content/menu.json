@@ -1,0 +1,169 @@
+{
+  "currency": "₹",
+  "source": "Read from malabarchaico.com/menu.pdf on 2026-09-29. Every price needs the owner's yes before launch.",
+  "pricesConfirmed": false,
+  "groups": [
+    {
+      "id": "chai",
+      "title": "Chai",
+      "blurb": "Pulled tea in the ribbed glass, with milk or without.",
+      "sections": [
+        {
+          "title": "Milk tea",
+          "items": [
+            { "id": "tea", "name": "Tea", "ml": "ചായ", "price": 15, "signature": true },
+            { "id": "ginger-tea", "name": "Ginger tea", "ml": "ഇഞ്ചി ചായ", "price": 25 },
+            { "id": "cardamom-tea", "name": "Cardamom tea", "ml": "ഏലക്ക ചായ", "price": 25 },
+            { "id": "cinnamon-tea", "name": "Cinnamon tea", "ml": "കറുവപ്പട്ട ചായ", "price": 25 },
+            { "id": "saffron-tea", "name": "Saffron tea", "ml": "കുങ്കുമപ്പൂ ചായ", "price": 70 }
+          ]
+        },
+        {
+          "title": "Black tea",
+          "items": [
+            { "id": "black-tea", "name": "Black tea", "ml": "കട്ടൻ ചായ", "price": 10 },
+            { "id": "lemon-tea", "name": "Lemon tea", "ml": "നാരങ്ങ ചായ", "price": 20 },
+            { "id": "black-ginger-tea", "name": "Ginger black tea", "ml": "ഇഞ്ചി കട്ടൻ", "price": 20 },
+            { "id": "mint-tea", "name": "Mint tea", "ml": "പുതിന ചായ", "price": 15 },
+            { "id": "black-cardamom-tea", "name": "Cardamom black tea", "ml": "ഏലക്ക കട്ടൻ", "price": 20 },
+            { "id": "black-cinnamon-tea", "name": "Cinnamon black tea", "ml": "കറുവപ്പട്ട കട്ടൻ", "price": 20 }
+          ]
+        },
+        {
+          "title": "Also hot",
+          "items": [
+            { "id": "bru-coffee", "name": "Bru coffee", "price": 30 },
+            { "id": "horlicks", "name": "Horlicks", "price": 30 },
+            { "id": "boost", "name": "Boost", "price": 30 },
+            { "id": "green-tea", "name": "Green tea", "price": 30 },
+            { "id": "hot-badam-milk", "name": "Hot badam milk", "price": 30 },
+            { "id": "hot-chocolate", "name": "Hot chocolate", "price": 50 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coolers",
+      "title": "Coolers",
+      "blurb": "Juices, shakes and mojitos for the Vadakara afternoon.",
+      "sections": [
+        {
+          "title": "Fruit juice",
+          "items": [
+            { "id": "juice-orange", "name": "Orange", "price": 70 },
+            { "id": "juice-mosambi", "name": "Mosambi", "price": 70 },
+            { "id": "juice-grape", "name": "Grape", "price": 70 },
+            { "id": "juice-pineapple", "name": "Pineapple", "price": 70 },
+            { "id": "juice-mango", "name": "Mango", "price": 80 },
+            { "id": "juice-passion-fruit", "name": "Passion fruit", "price": 70 },
+            { "id": "juice-watermelon", "name": "Watermelon", "price": 70 }
+          ]
+        },
+        {
+          "title": "Pure juice",
+          "note": "No sugar, ice or water",
+          "items": [
+            { "id": "pure-citrus", "name": "Citrus", "price": 160 },
+            { "id": "pure-mosambi", "name": "Mosambi", "price": 120 },
+            { "id": "pure-anar", "name": "Anar", "price": 160 }
+          ]
+        },
+        {
+          "title": "Seasonal fusion",
+          "items": [
+            { "id": "mango-mint", "name": "Mango mint", "price": 85 },
+            { "id": "mango-passion", "name": "Mango passion fruit", "price": 100 }
+          ]
+        },
+        {
+          "title": "Milkshakes",
+          "items": [
+            { "id": "shake-sharjah", "name": "Sharjah", "price": 90 },
+            { "id": "shake-chickoo", "name": "Chickoo", "price": 90 },
+            { "id": "shake-mango", "name": "Mango", "price": 100 },
+            { "id": "shake-avocado", "name": "Avocado", "price": 110 },
+            { "id": "shake-anar", "name": "Anar", "price": 110 },
+            { "id": "shake-sitafal", "name": "Sitafal", "price": 110 }
+          ]
+        },
+        {
+          "title": "Exotic shakes",
+          "items": [
+            { "id": "shake-abood", "name": "Abood", "price": 120 },
+            { "id": "shake-mastani", "name": "Mastani", "price": 140 },
+            { "id": "shake-kismiz", "name": "Kismiz", "price": 160 },
+            { "id": "shake-boss", "name": "Boss", "price": 160 },
+            { "id": "shake-dry-fruit", "name": "Dry fruit shake", "price": 150 }
+          ]
+        },
+        {
+          "title": "Mojito",
+          "items": [
+            { "id": "mojito-classic", "name": "Classic mojito", "price": 120 },
+            { "id": "mojito-passion", "name": "Passion fruit mojito", "price": 140 },
+            { "id": "mojito-strawberry", "name": "Strawberry mojito", "price": 150 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sweet",
+      "title": "Sweet salkaaram",
+      "blurb": "The sweet half of a Malabar wedding table.",
+      "sections": [
+        {
+          "items": [
+            { "id": "elayada", "name": "Elayada", "ml": "ഇലയട", "desc": "Rice flour, jaggery and coconut", "price": 15, "photo": "elayada" },
+            { "id": "elanchi", "name": "Elanchi", "ml": "ഇലാഞ്ചി", "price": 15, "confirm": ["description"] },
+            { "id": "unnakkai", "name": "Unnakkai", "ml": "ഉന്നക്കായ", "desc": "Banana, coconut and oil", "price": 25, "photo": "unnakaya", "confirm": ["spelling: site says Unnakaya"] },
+            { "id": "pazham-nirachath", "name": "Pazham nirachath", "ml": "പഴം നിറച്ചത്", "desc": "Banana, coconut and sugar", "price": 25, "photo": "pazham-nirachathu" },
+            { "id": "bread-pocket", "name": "Bread pocket", "ml": "ബ്രെഡ് പോക്കറ്റ്", "desc": "Whole wheat flour, sugar and oil", "price": 25, "photo": "bread-pocket", "confirm": ["sweet or savoury"] },
+            { "id": "bun-nirachath", "name": "Bun nirachath", "ml": "ബൺ നിറച്ചത്", "price": 25, "confirm": ["sweet or savoury", "description"] },
+            { "id": "kai-pola", "name": "Kai pola", "ml": "കായ് പോള", "desc": "Ripe plantain, egg and ghee", "price": 30, "photo": "kai-pola" },
+            { "id": "carrot-pola", "name": "Carrot pola", "ml": "ക്യാരറ്റ് പോള", "desc": "Carrot, egg and milk", "price": 35, "photo": "carrot-pola" },
+            { "id": "mutta-mala", "name": "Mutta mala", "ml": "മുട്ടമാല", "desc": "Egg, sugar and milk", "price": 40, "photo": "mutta-mala" },
+            { "id": "chatti-pathal-sweet", "name": "Chatti pathal, sweet", "ml": "ചട്ടിപ്പത്തൽ", "price": 40, "confirm": ["description"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "savoury",
+      "title": "Savoury salkaaram",
+      "blurb": "Pathals, polas and fried things with a filling.",
+      "sections": [
+        {
+          "items": [
+            { "id": "sammosa", "name": "Sammosa", "ml": "സമൂസ", "price": 15 },
+            { "id": "irachi-pathal", "name": "Irachi pathal", "ml": "ഇറച്ചി പത്തൽ", "price": 15 },
+            { "id": "mutta-porichath", "name": "Mutta porichath", "ml": "മുട്ട പൊരിച്ചത്", "price": 15 },
+            { "id": "nadan-puffs", "name": "Nadan puffs", "ml": "നാടൻ പഫ്സ്", "desc": "Puff pastry, vegetables and spices", "price": 15, "photo": "puffs" },
+            { "id": "petti-pathal", "name": "Petti pathal", "ml": "പെട്ടി പത്തൽ", "desc": "Maida, chicken and oil", "price": 15, "photo": "patti-pathal", "confirm": ["spelling: site says Patti Pathal"] },
+            { "id": "kallumakkaya", "name": "Kallumakkaya", "ml": "കല്ലുമ്മക്കായ", "desc": "Mussels, rice flour and coconut", "price": 20, "photo": "kallummakkaya" },
+            { "id": "chicken-roll", "name": "Chicken roll", "ml": "ചിക്കൻ റോൾ", "desc": "Wheat flour, chicken and spices", "price": 20, "photo": "chicken-roll" },
+            { "id": "cutlet-chicken", "name": "Chicken cutlet", "ml": "ചിക്കൻ കട്ട്‌ലറ്റ്", "price": 20, "photo": "cutlet", "confirm": ["site says vegetable cutlet, menu says chicken"] },
+            { "id": "chemmen-unda", "name": "Chemmen unda", "ml": "ചെമ്മീൻ ഉണ്ട", "desc": "Prawn, rice flour and spices", "price": 20, "photo": "chemmen-unda" },
+            { "id": "kozhi-ada", "name": "Kozhi ada", "ml": "കോഴി അട", "desc": "Maida, chicken and coconut oil", "price": 20, "photo": "kozhi-ada", "confirm": ["spelling: menu PDF says Koi Ada"] },
+            { "id": "egg-bomb", "name": "Egg bomb", "ml": "എഗ്ഗ് ബോംബ്", "price": 20 },
+            { "id": "elayada-spicy", "name": "Elayada, spicy", "ml": "എരിവുള്ള ഇലയട", "price": 25 },
+            { "id": "kalmas", "name": "Kalmas", "ml": "കൽമാസ്", "price": 25, "confirm": ["sweet or savoury", "description"] },
+            { "id": "kilikkoodu", "name": "Kilikkoodu", "ml": "കിളിക്കൂട്", "price": 25 },
+            { "id": "aleesa", "name": "Aleesa", "ml": "അലീസ", "price": 30 },
+            { "id": "kunhi-pathal", "name": "Kunhi pathal", "ml": "കുഞ്ഞിപ്പത്തൽ", "desc": "Rice, chicken and coconut milk", "price": 35, "photo": "kunji-pathal", "confirm": ["spelling: site says Kunji Pathal"] },
+            { "id": "meen-pathal", "name": "Meen pathal", "ml": "മീൻ പത്തൽ", "desc": "Rice flour, fish and coconut", "price": 35, "photo": "meen-pathal" },
+            { "id": "irani-pola", "name": "Irani pola", "ml": "ഇറാനി പോള", "desc": "Meat, all-purpose flour and egg", "price": 40, "photo": "irani-pola" },
+            { "id": "mutta-pathal", "name": "Mutta pathal", "ml": "മുട്ട പത്തൽ", "desc": "Flour, egg and water", "price": 40, "photo": "mutta-pathal" },
+            { "id": "chatti-pathal-meat", "name": "Chatti pathal, meat", "ml": "ചട്ടിപ്പത്തൽ", "desc": "Rice flour, spices and onion", "price": 40, "photo": "chatti-pathal" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preorder",
+      "title": "Pre-order",
+      "blurb": "Salkaaram by the tray for weddings, nikahs, house-warmings and office evenings. Send the count and the date on WhatsApp and we will confirm.",
+      "confirm": ["which items can be pre-ordered", "minimum quantity", "notice needed"],
+      "sections": []
+    }
+  ]
+}

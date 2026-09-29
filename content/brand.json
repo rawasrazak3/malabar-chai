@@ -1,0 +1,90 @@
+{
+  "name": "Malabar Chai Co.",
+  "tagline": "Bringing the heart of Malabar to every plate, where every meal feels like home.",
+  "hero": {
+    "headline": "Chai and the snacks of a Malabar wedding.",
+    "sub": "Pulled tea and thirty kinds of salkaaram, made the old way on Nut Street, Vadakara."
+  },
+  "address": {
+    "lines": ["Copra Bhavan, Nut Street", "Vadakara, Kerala 673104"],
+    "short": "Copra Bhavan, Nut Street, Vadakara",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=Malabar+Chai+Co.+Copra+Bhavan+Nut+Street+Vatakara+Kerala+673104"
+  },
+  "phone": { "display": "+91 797 000 7100", "tel": "+917970007100" },
+  "whatsapp": { "display": "+91 95671 19636", "number": "919567119636", "greeting": "Hi Malabar Chai Co., I'd like to order:" },
+  "instagram": { "handle": "@malabarchaico", "url": "https://www.instagram.com/malabarchaico/" },
+  "email": null,
+  "timezone": "Asia/Kolkata",
+  "hours": [
+    { "day": "Monday", "open": "13:00", "close": "23:00" },
+    { "day": "Tuesday", "open": "13:00", "close": "23:00" },
+    { "day": "Wednesday", "open": "13:00", "close": "23:00" },
+    { "day": "Thursday", "open": "13:00", "close": "23:00" },
+    { "day": "Friday", "open": "14:00", "close": "23:00" },
+    { "day": "Saturday", "open": "13:00", "close": "23:00" },
+    { "day": "Sunday", "open": "13:00", "close": "23:00" }
+  ],
+  "pull": {
+    "status": "draft: written for the redesign, owner to confirm how they actually make it",
+    "title": "The pull",
+    "intro": "Kerala tea is not stirred. It is thrown.",
+    "steps": [
+      { "title": "Boil", "text": "Tea dust and water on a hard boil until it runs dark, then the milk goes in." },
+      { "title": "Pull", "text": "Poured from arm's height, jug to glass and back, until it cools enough to drink and the top turns to froth." },
+      { "title": "Pour", "text": "Into the ribbed glass, froth on top, and out to your table while it still steams." }
+    ]
+  },
+  "salkaaram": {
+    "years": "25+",
+    "yearsLabel": "years making Malabar snacks",
+    "title": "The snacks of a Malabar wedding, every afternoon.",
+    "body": [
+      "Salkaaram is what a Malabar house puts out when guests come: the snacks that were the highlight of a wedding and a staple in every home kitchen.",
+      "We make them the way they have been made for generations, so every bite tastes like the afternoon it came from."
+    ]
+  },
+  "stories": {
+    "status": "draft: the live site has only titles (the story pages are Lorem Ipsum). These texts were written for the redesign; the owner should confirm or replace them.",
+    "items": [
+      {
+        "id": "samosa",
+        "title": "Why the samosa is a triangle",
+        "image": "assets/stories/samosa.webp",
+        "teaser": "A pocket built for the road.",
+        "body": [
+          "The samosa came to India with traders and travellers from Central Asia and Persia, where it was written about as sanbusak more than a thousand years ago.",
+          "The triangle is the easiest way to fold a strip of dough over a filling so it is sealed on every side without extra pastry. It sits flat in hot oil, it packs tightly, and it survives a journey. The shape stayed because it works."
+        ]
+      },
+      {
+        "id": "banana-fry",
+        "title": "How banana fry and beef became a pair",
+        "image": "assets/stories/banana-fry.webp",
+        "teaser": "Sweet, hot, and nobody's invention.",
+        "body": [
+          "No one has a birth certificate for this one. Pazham pori, ripe nendran banana fried in batter, has been a tea-shop staple in Kerala for as long as anyone remembers, and so has a dark, peppery beef fry.",
+          "Somewhere between the tea shops and the night stalls someone put them on the same plate, and the sweet, soft banana against the spiced meat stuck. Today most of Kerala orders them together without thinking about it."
+        ]
+      },
+      {
+        "id": "mutta-mala",
+        "title": "The history of mutta mala",
+        "image": "assets/stories/mutta-mala.webp",
+        "teaser": "Egg yolk, spun into gold thread.",
+        "body": [
+          "Mutta mala means egg garland. Yolks are poured in a thin stream into boiling sugar syrup, where they set into fine golden threads.",
+          "It is a Malabar wedding sweet, and it has cousins far away: Portuguese fios de ovos and Thai foi thong are made the same way, which is why many trace it to the spice-trade centuries on this coast. The whites are never wasted; they become pinjanathappam, served on the same plate."
+        ]
+      }
+    ]
+  },
+  "ownerToConfirm": [
+    "Every price and item (read from the menu PDF)",
+    "Which snacks are daily and which are pre-order only",
+    "Spellings and Malayalam names",
+    "Use of name, logo and photos",
+    "Real email address and Instagram link",
+    "Halal certificate before stating it anywhere",
+    "The pull steps and the three dish stories"
+  ]
+}
